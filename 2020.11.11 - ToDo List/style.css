@@ -1,0 +1,33 @@
+.container {
+    padding-left: 50px;
+}
+
+.task-text {
+    cursor: pointer;
+}
+
+.btn-edit, .btn-remove {
+    cursor: pointer;
+}
+
+.btn-edit {
+    color: green;
+}
+
+.btn-remove {
+    color: red;
+}
+
+.task-text:hover, .btn-edit:hover, .btn-remove:hover {
+    color: #aaa;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+    background-color: lightblue;
+    color: maroon;
+}
+
+ul {
+    padding: 0%;
+}
