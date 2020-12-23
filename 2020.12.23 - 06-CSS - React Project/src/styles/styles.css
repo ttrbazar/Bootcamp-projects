@@ -1,0 +1,15 @@
+.parent {
+    color: darkslategrey;
+}
+
+.title {
+    color: deepskyblue;
+}
+
+.child {
+    color: fuchsia;
+}
+
+p {
+    color: green;
+}

@@ -1,0 +1,19 @@
+.parent {
+    background-color: #CCCCAA;
+}
+
+.title {
+    color: deeppink;
+}
+
+.child {
+    color: darkmagenta;
+}
+
+p {
+    color: darkorange;
+}
+
+#parap {
+    color: greenyellow;
+}
